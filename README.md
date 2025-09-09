@@ -1,4 +1,6 @@
 # Prompt-Sugar
+<img width="1024" height="369" alt="TypeFace" src="https://github.com/user-attachments/assets/0d1b4f67-be0c-49f8-9a6b-402cbe409a1f" />
+
 Give Some Sugar to Get your Cube.
 Building Better Prompts one granule of sugar at a time.  When you're done, you'll have a nice sugar cube.  That is the goal for Prompt Sugar.
 The 2 main Models it can help with are OpenAI's ChatGPT 5 and Google Gemini 2.5 Pro.  There are 6 Tabs for each prompt you may want to create.
