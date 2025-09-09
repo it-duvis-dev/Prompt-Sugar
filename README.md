@@ -1,4 +1,4 @@
-# Prompt-Sugar
+# Prompt Sugar (Version 1.0)
 <img width="1024" height="369" alt="TypeFace" src="https://github.com/user-attachments/assets/0d1b4f67-be0c-49f8-9a6b-402cbe409a1f" />
 
 Give Some Sugar to Get your Cube.
